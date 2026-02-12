@@ -22,7 +22,9 @@ Before running this project, make sure you have the following installed:
 
    
 git clone https://github.com/Wajahat-Programmer/22-RPM-Backend.git
+
 cd 22-RPM-Backend
+
 npm install
 
 
